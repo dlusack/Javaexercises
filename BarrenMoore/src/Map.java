@@ -13,7 +13,7 @@ player=	swamp[0][0];
 
 //int secondArray[][]= new int [10][10];
 	//above is a multisize array
-	System.out.println("Player one is at position "+player);
+	System.out.println("Player one Is at position "+player);
 	display(swamp);
 	
 	//System.out.println("This is the second array");

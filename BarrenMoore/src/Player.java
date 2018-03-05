@@ -1,5 +1,13 @@
 
 public class Player {
-int Moveup;
-int Movedown;
+int xLocation;
+int yLocation;
+public Player(int xLocation, int yLocation) {
+	super();
+	this.xLocation = xLocation;
+	this.yLocation = yLocation;
 }
+
+
+}
+
